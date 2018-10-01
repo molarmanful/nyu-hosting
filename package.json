@@ -1,0 +1,23 @@
+{
+  "name": "nyu-hosting",
+  "version": "0.0.0",
+  "description": "Source for bennyboy.hosting.nyu.edu",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molarmanful/nyu-hosting.git"
+  },
+  "author": "Benjamin Pang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molarmanful/nyu-hosting/issues"
+  },
+  "homepage": "https://github.com/molarmanful/nyu-hosting#readme",
+  "dependencies": {
+    "spectre.css": "^0.5.3",
+    "typeface-overpass-mono": "0.0.54"
+  }
+}
